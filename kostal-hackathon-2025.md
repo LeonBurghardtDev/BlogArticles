@@ -11,6 +11,8 @@ tags: ["hackathon", "raspberry-pi", "robotics", "python"]
 Watch the run here:
 https://www.youtube.com/shorts/kSjcoM1imcY
 
+[![Watch the run](https://img.youtube.com/vi/kSjcoM1imcY/hqdefault.jpg)](https://www.youtube.com/shorts/kSjcoM1imcY)
+
 We showed up at the KOSTAL Hackathon 2025 at FH Dortmund with a clear goal:
 get a Raspberry Pi car to follow paths, read QR codes, and finish the
 course reliably. On paper we had around eight hours. In reality, battery
