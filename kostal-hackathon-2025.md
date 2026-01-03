@@ -11,33 +11,22 @@ tags: ["hackathon", "raspberry-pi", "robotics", "python"]
 Watch the run here:
 https://www.youtube.com/shorts/kSjcoM1imcY
 
-## The challenge
+We showed up at the KOSTAL Hackathon 2025 at FH Dortmund with a clear goal:
+get a Raspberry Pi car to follow paths, read QR codes, and finish the
+course reliably. On paper we had around eight hours. In reality, battery
+problems cut our effective time to about four hours of programming,
+planning, and testing.
 
-At the KOSTAL Hackathon 2025 at FH Dortmund, we had around eight hours to
-build and program a Raspberry Pi car. The goal was to follow paths, read
-QR codes, and complete the course reliably.
+That time pressure changed everything. We had to make decisions fast and
+protect the build from unnecessary risk. The “fast” routes looked tempting
+but were full of edge cases, so we took the safest path we could find. It
+felt conservative in the moment, but the logic was simple: fewer surprises
+meant more reliability, and reliability wins hackathons.
 
-## The reality
+Our stack was straightforward: a Raspberry Pi car, Python for control, and
+simple checks to keep it on track. Nothing fancy, just enough to execute
+cleanly. When the run finally came together, the safest option turned out
+to be the best option.
 
-Battery issues reduced our effective time to roughly four hours for
-programming, planning, and testing. That forced us to simplify quickly
-and focus on what would actually work under pressure.
-
-## The decision that won
-
-We chose the safest route and ignored faster alternatives. It felt
-conservative, but it turned out to be the right call. The reliable path
-kept the car stable, let the sensors do their job, and removed the
-biggest sources of risk.
-
-## What we built
-
-- Raspberry Pi based car
-- Python control stack
-- Path following with QR code checks
-
-## Takeaways
-
-- Reliability beats speed when time is tight
-- Simple plans are easier to debug under stress
-- Good decisions matter as much as good code
+That was the biggest lesson for me. When time is short, clarity beats
+complexity, and good decisions matter as much as good code.
